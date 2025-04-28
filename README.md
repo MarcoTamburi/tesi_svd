@@ -1,2 +1,2 @@
 # tesi svd
-Programma per lo studio di G-quadruplex grazie ad svd
+Programma per lo studio di G-quadruplex grazie a svd
