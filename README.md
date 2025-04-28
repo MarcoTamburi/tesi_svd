@@ -7,8 +7,8 @@ Tutto è stato configurato per essere facilmente eseguito usando **Docker** e **
 
 ### 1. Clonare la repository
 ```bash
-git clone https://github.com/marcotamburi1999/svd.git
-cd svd
+git clone https://github.com/marcotamburi1999/tesi_svd.git
+cd tesi_svd
 
 ### 2. Scaricare immagine Docker
 docker pull marcotamburi1999/svd
