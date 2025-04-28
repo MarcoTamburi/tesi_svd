@@ -14,8 +14,8 @@ cd svd
 docker pull marcotamburi1999/svd
 
 ### 3. Avviare container
-docker run -p 8888:8888 -v $(pwd):/app marcotamburi1999/svd
-docker run -p 8888:8888 -v ${pwd}:/app marcotamburi1999/svd
+docker run -p 8888:8888 $(pwd):/app marcotamburi1999/svd
+docker run -p 8888:8888 ${pwd}:/app marcotamburi1999/svd
 
 # 1) Linux
 # 2) windows
